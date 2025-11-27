@@ -12,7 +12,7 @@ Basic information:
 
 
 Code # 1: Find the area of the circle.
-''' cpp
+```cpp
 #include <iostream>
 using namespace std;
 int main () {
@@ -26,10 +26,10 @@ int main () {
 
     return 0;
 }
-'''
+```
 
 Code # 2: Arithmatic operations
-''' cpp
+``` cpp
 #include <iostream>
 using namespace std;
 int main() {
@@ -47,10 +47,10 @@ int main() {
     cout<<"x + y = "<<x+y<<endl;
     cout<<"x - y = "<<x-y<<endl;
 }
-'''
+```
 
 Code # 3: ASCII value to character using Typecasting
-''' cpp
+``` cpp
 #include <iostream>
 using namespace std;
 int main () {
@@ -66,10 +66,10 @@ int main () {
     cout<<endl;
     return 0;
 }
-'''
+```
 
 Code # 4: Finding ASCII value
-''' cpp
+``` cpp
 #include <iostream>
 using namespace std;
 int main () {
@@ -82,10 +82,10 @@ int main () {
     cout<<"The ASCII value of "<<ch<<" is "<<value;
     return 0;
 }
-'''
+```
 
 Code # 5: Problem solving: Using float data-type but getting answer in integer
-''' cpp
+``` cpp
 #include <iostream>
 using namespace std;
 int main () {
@@ -102,10 +102,10 @@ int main () {
     cout<<5.0/2.0<<endl; // compiler will see it as float/float by default so output will be in float
     return 0;
 }
-'''
+```
 
 Code # 6: Increment and Decrement
-''' cpp
+``` cpp
 #include <iostream>
 using namespace std;
 int main() {
@@ -123,10 +123,10 @@ int main() {
     --x; // Decrement it will subtract 1 from the value  
     cout<<x;
 }
-'''
+```
 
 Code # 7: Post and Pre-Increment + Decrement
-''' cpp
+``` cpp
 #include <iostream>
 using namespace std;
 int main () {
@@ -151,10 +151,10 @@ int main () {
     cout<<--x<<endl; //Pre-decrement: In this the value of x is decremented, decreased before getting the value x  
     cout<<endl;
 }
-'''
+```
 
 Code # 8: Take 3 input from user and output their product
-''' cpp
+``` cpp
 #include <iostream>
 using namespace std;
 int main () {
@@ -173,10 +173,10 @@ int main () {
     cout<< num1 * num2 * num3;
     return 0;
 }
-'''
+```
 
 Code # 9: Type-casting
-''' cpp
+``` cpp
 #include <iostream>
 using namespace std;
 int main () {
@@ -196,8 +196,9 @@ int main () {
 
     cout<<y/2;
 }
-'''
+```
 Code # 10: Variable upgradation
+``` cpp
 #include <iostream>
 using namespace std;
 int main () {
@@ -225,8 +226,10 @@ int main () {
     cout<<x<<endl;
     return 0;
 }
+```
 
 Code # 11: Make a program to find Volume of sphere
+``` cpp
 #include <iostream>
 using namespace std;
 int main () {
@@ -242,3 +245,4 @@ int main () {
 
     return 0;
 }
+``` 
