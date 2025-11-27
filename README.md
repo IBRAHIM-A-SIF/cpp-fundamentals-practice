@@ -11,7 +11,7 @@ Basic information:
 7) we use cin to get the input from user
 
 
-Code # 1: Find the area of the circle
+Code # 1: Find the area of the circle.
 #include <iostream>
 using namespace std;
 int main () {
